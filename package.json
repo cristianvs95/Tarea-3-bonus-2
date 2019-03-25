@@ -1,0 +1,14 @@
+{
+  "name": "tarea-3",
+  "version": "1.0.1",
+  "description": "Tarea bonus 3",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Cristian Villegas",
+  "license": "ISC",
+  "dependencies": {
+    "yargs": "^13.2.2"
+  }
+}
